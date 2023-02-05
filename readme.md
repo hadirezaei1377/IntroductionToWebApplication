@@ -1,0 +1,1 @@
+Reviewing concepts and performing appropriate exercises that are prerequisites for writing a web application.
